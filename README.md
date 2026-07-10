@@ -37,12 +37,12 @@
 
 ## 📂 Highlighted Projects
 
-###Docker Instancer
+### Docker Instancer
 *An on-demand isolated environment orchestration tool designed to scale CTF infrastructures efficiently.*
 - Engineered a system that spins up containers in real-time, matching dynamic user demand seamlessly.
 - Used to spin up on-demand isolated challenges for massive CTFs .
 
-###Codeforces Duel
+### Codeforces Duel
 *A real-time 1v1 competitive programming platform built using FastAPI, Redis, and WebSockets.*
 - Implements instant matchmaking and dynamic state sync over persistent WebSocket connections.
 - Designed for low-latency interactions to mimic head-to-head algorithm battles.
