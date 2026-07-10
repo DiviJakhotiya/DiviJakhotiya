@@ -5,7 +5,7 @@
   <h1>Hey there, I'm Divy Jakhotiya</h1>
   
   <p>
-    <a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-Peak%201229-4A90E2?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+    <a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-Peak%201260-4A90E2?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
     <img src="https://img.shields.io/badge/CTF-100+%20Competitions-ff69b4?style=flat-square&logo=hack-the-box&logoColor=white" alt="CTFs">
     <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Full%20Stack-active?style=flat-square&color=6C5CE7" alt="Focus">
   </p>
