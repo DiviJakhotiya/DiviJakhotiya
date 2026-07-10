@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <i>Coding for the fun of it—taking complex systems apart, putting them back together, and building things people actually enjoy using.</i>
+    <i>Coding for the fun of it, taking complex systems apart, putting them back together, and building things people actually enjoy using.</i>
   </p>
 </div>
 
