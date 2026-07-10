@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 - 🎓 **Academic Journey:** Pursuing a Bachelor of Engineering in Computer Science at BITS Pilani K.K. Birla Goa Campus.
-- 🛡️ **CyberSecurity** Technical Lead at **BITSkrieg**, India's Leading CyberSecurity club.
+- 🛡️ **CyberSecurity:** Technical Lead at **BITSkrieg**, India's Leading CyberSecurity club.
 - 💻 **Competitive Programming:** Active problem solver on Codeforces, diving into complex data structures and graph algorithms.
 
 ---
