@@ -22,6 +22,7 @@
 - 🎓 **Academic Journey:** Pursuing a Bachelor of Engineering in Computer Science at BITS Pilani K.K. Birla Goa Campus.
 - 🛡️ **CyberSecurity:** Technical Lead at **BITSkrieg**, India's Leading CyberSecurity club.
 - 💻 **Competitive Programming:** Active problem solver on Codeforces, diving into complex data structures and graph algorithms.
+- 📄 **Resume:** View my detailed background and academic history [here](Divy_Jakhotiya_Resume_Personal.pdf).
 
 ---
 
@@ -47,7 +48,7 @@
 - Implements instant matchmaking and dynamic state sync over persistent WebSocket connections.
 - Designed for low-latency interactions to mimic head-to-head algorithm battles.
 
-
+---
 
 ## 🌐 Connect With Me
 
@@ -57,6 +58,9 @@
   </a>
   <a href="mailto:divyjakhotiya@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="Divy_Jakhotiya_Resume_Personal.pdf">
+    <img src="https://img.shields.io/badge/Resume-📄-4A90E2?style=for-the-badge" alt="Resume" />
   </a>
   
   <br><br>
